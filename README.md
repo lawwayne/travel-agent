@@ -1,4 +1,4 @@
-[200~# Travel Planning Multi-Agent System
+# Travel Planning Multi-Agent System
 
 An AI-powered travel planning system built with Google's Agent Development Kit (ADK). Features specialized agents for flights, hotels, and attractions working together.
 
@@ -18,5 +18,5 @@ An AI-powered travel planning system built with Google's Agent Development Kit (
 ## 🛠️ Tools Used
 
 - Google ADK (Agent Development Kit)
-- Gemini 2.0 Flash (free tier)
+- Gemini 2.5 Flash (free tier)
 - Python 3.x
